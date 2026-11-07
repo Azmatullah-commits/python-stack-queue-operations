@@ -18,12 +18,14 @@ and Algorithms (DSA).
 
 ## Project Structure
 
+```text
 python-stack-queue-operations/
-|
-|-- stack.py
-|-- queue.py
-|
-|-- README.md
+│
+├── stack.py
+├── queue.py
+│
+└── README.md
+```
 
 ## 1. Stack
 
