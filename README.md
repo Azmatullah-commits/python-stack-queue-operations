@@ -71,6 +71,32 @@ Run the Queue program:
 python queue.py
 ```
 
+## Example Output
+
+### Stack Output
+
+```text
+10 added to stack
+20 added to stack
+30 added to stack
+Stack: [10, 20, 30]
+Top element: 30
+30 removed from stack
+Stack: [10, 20]
+```
+
+### Queue Output
+
+```text
+10 added to queue
+20 added to queue
+30 added to queue
+Queue: [10, 20, 30]
+Front element: 10
+10 removed from queue
+Queue: [20, 30]
+```
+
 ## Purpose
 
 This project is part of my DSA learning journey.
@@ -80,4 +106,12 @@ using Python.
 ## Language
 
 Python
+
+
+## Author
+
+**Azmatullah**
+
+GitHub: [@Azmatullah-commits](https://github.com/Azmatullah-commits)
+
 
